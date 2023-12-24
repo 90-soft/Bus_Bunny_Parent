@@ -7,9 +7,9 @@ Welcome to Buss Bunny! This Privacy Policy outlines how we collect, use, share, 
 ### Information We Collect
 #### Personal Information:
 To provide our services, we may collect personal information, including but not limited to:
--Names
--Contact information (phone number)
--Student information (if provided by schools or parents).
+- Names
+- Contact information (phone number)
+- Student information (if provided by schools or parents).
 
 ## Usage Data:
 We collect data on how the App is accessed and used, including:
@@ -18,12 +18,11 @@ App usage statistics
 IP addresses
 ## How We Use Your Information
 We use the collected information for the following purposes:
-
--To provide and maintain the App
--To notify you about changes or updates
--To improve our services
--To communicate with you, including responding to inquiries and providing customer support
--To comply with legal obligations
+- To provide and maintain the App
+- To notify you about changes or updates
+- To improve our services
+- To communicate with you, including responding to inquiries and providing customer support
+- To comply with legal obligations
 ## Information Sharing and Disclosure
 We may share your information with:
 - School Administrators: To facilitate communication and ensure the proper functioning of the App.
